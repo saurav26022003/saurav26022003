@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL | Python | Tableau | Excel</h3>
 
 <p align="center">
-  <a href="https://github.com/saurav-dangi371">
+  <a href="https://github.com/saurav26022003">
     <img src="https://img.shields.io/github/followers/saurav-dangi371?label=Followers&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/saurav-dangi371">
