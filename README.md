@@ -2,10 +2,10 @@
 <h3 align="center">Data Analyst | SQL | Python | Tableau | Excel</h3>
 
 <p align="center">
-  <a href="https://github.com/nancy78-bit">
-    <img src="https://img.shields.io/github/followers/nancy78-bit?label=Followers&style=social" />
+  <a href="https://github.com/saurav-dangi371">
+    <img src="https://img.shields.io/github/followers/saurav-dangi371?label=Followers&style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/nancy-dangi-nan">
+  <a href="https://www.linkedin.com/in/saurav-dangi371">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <img src="https://img.shields.io/badge/Profile-Data%20Analytics-brightgreen" />
